@@ -1,3 +1,2 @@
--//nothing  here
-count"12"
-local
+Do some...
+log your mind
